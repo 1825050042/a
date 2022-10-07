@@ -3,4 +3,4 @@ int main(){
 printf("My hobby is game.");
 }
 
-趣味を表示
+I am in branch2nd.
